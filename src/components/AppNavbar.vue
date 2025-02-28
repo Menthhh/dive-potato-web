@@ -4,7 +4,7 @@
     
       <!-- Logo -->
       <div class="logo hover:cursor-pointer">
-        <img src="../assets/logo.png" alt="Logo" class="h-10">
+        <img src="/images/icons/logo.png" alt="Logo" class="h-10">
       </div>
 
       <!-- Navigation Links -->
@@ -21,14 +21,14 @@
       <!-- Right-side Actions -->
       <div class="flex items-center space-x-6">
         <span class="text-xl cursor-pointer text-black">
-          <img src="../assets/search.png" alt="Logo" class="size-5">
+          <img src="/images/icons/search.png" alt="Logo" class="size-5">
         </span>
         <span class="text-black">
           <a href="/login" class="hover:underline">Login</a> |
           <a href="/signup" class="hover:underline">Create Account</a>
         </span>
         <span class="text-xl cursor-pointer text-black">
-          <img src="../assets/cart.png" alt="Logo" class="size-5">
+          <img src="/images/icons/cart.png" alt="Logo" class="size-5">
         </span>
 
         <!-- Language Toggle -->
